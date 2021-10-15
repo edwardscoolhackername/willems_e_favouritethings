@@ -1,0 +1,23 @@
+{
+  "name": "willems_e_favouritethings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardscoolhackername/willems_e_favouritethings.git"
+  },
+  "author": "Edward Willems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardscoolhackername/willems_e_favouritethings/issues"
+  },
+  "homepage": "https://github.com/edwardscoolhackername/willems_e_favouritethings#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.43.2"
+  }
+}
