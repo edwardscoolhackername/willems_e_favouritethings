@@ -45,11 +45,11 @@ body {
 
 .lightbox {
     background-color: #000;
-    opacity: 86%;
     border: solid 3px #fff;
     border-radius: 1em;
-    padding: 1em;
-    
+    padding: 3em;
+    position: fixed;
+    margin: 0px auto;
 }
 .closebutton {
     font-family: $main-font;
@@ -66,6 +66,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    opacity: 100%;
 }
 
 .songtitle {
@@ -73,7 +74,7 @@ body {
     font-weight: bold;
     margin: .5em;
 }
-.artist {
+.genre {
     font-weight: lighter;
     margin: .8em;
 }
