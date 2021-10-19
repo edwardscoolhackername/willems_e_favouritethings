@@ -2,7 +2,8 @@
 function open() {
     let songcontainer = document.querySelector(".songinfo"),
         box = document.querySelector(".lightbox"),
-        information = songcontainer.children;
+        information = songcontainer.children,
+        targetlink = this.className.split(" ")[1];
 
     function getData() {
         fetch("../data.json")
@@ -17,12 +18,15 @@ function open() {
 
     function buildabox(info) {
         
-        let songchoice = Object.keys(info),
-            link = document.querySelector;
+        let songchoice = Object.keys(info);
        
 
         songchoice.forEach(song => {
-            information[0].textContent = info[song].title;
+            information[0].textContent = info[targetlink].title;
+            information[1].textContent = info[targetlink].genre;
+            information[2].src = `audio/${info[targetlink].music}`;
+            information[3].src = `dist/${info[targetlink].albumart}`;
+            information[4].textContent = info[targetlink].description;
         })
 
     }
