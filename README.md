@@ -4,6 +4,11 @@
 Edward Willems
 
 ## Battle Plan:
+ - Favourite Songs of 2021. Narrow it down to 5.
+ - Album art links.
+ - Fetch Title, Artist, Genre, Audio, Album Art, and Description from data.json file to populate lightbox. 
+ - Use Game of Thrones project as a base for Lightbox script, especially changing information/pictures on a link click.
+ - Audio links. Copy GoT function of restarting songs on Close. 
 
 ## MIT License
 Copyright 2021 EDWARD WILLEMS
