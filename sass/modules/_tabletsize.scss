@@ -12,6 +12,7 @@
     }
     
     .lightbox {
+        width: 700px;
         padding: 2em;
     }
     .songinfo {
@@ -25,5 +26,10 @@
         grid-row: 1/5;
         width: 300px;
         height: 300px;
+    }
+    .description {
+        margin-top: .5em;
+        font-size: $main-size;
+        line-height: 1.5em;
     }
  }

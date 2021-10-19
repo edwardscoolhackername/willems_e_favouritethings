@@ -44,12 +44,14 @@ body {
 }
 
 .lightbox {
+    width: 400px;
     background-color: #000;
     border: solid 3px #fff;
     border-radius: 1em;
-    padding: 3em;
+    padding: 2em;
     position: fixed;
     margin: 0px auto;
+    top: 3.5em;
 }
 .closebutton {
     font-family: $main-font;
@@ -84,6 +86,7 @@ body {
     margin: 1.2em;
 }
 .description{
-    margin-bottom: 2em;
+    font-size: .8em;
     text-align: center;
+    line-height: $main-size;
 }
