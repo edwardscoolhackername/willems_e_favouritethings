@@ -1,0 +1,37 @@
+{
+    "aephanemer": {
+        "title":"Panta Rhei - AEPHANEMER",
+        "genre":"Melodic Death Metal",
+        "music":"pantarhei.mp3",
+        "albumart":"aephanemer.jpg",
+        "description": "France’s Aephanemer balances gorgeous symphonic passages with blistering speed and ferocity. In their first single from upcoming album A Dream of Wilderness, they return to weave mystical lyrics over sweeping violins, soaring guitar, and thundering drums. Lead singer Marion Bascoul’s roaring voice soars to incredible heights before pausing for a moment of beautiful intimacy, and then exploding with renewed intensity. This song is a journey, and I cannot wait for this album to drop in November."
+    }, 
+    "ghost": {
+        "title":"Hunter's Moon - GHOST",
+        "genre":"Pop-Metal/Rock",
+        "music":"hunter'smoon.mp3",
+        "albumart":"ghost.jpg",
+        "description": "The Cardinal is dead, long live Papa Emeritus! Fresh off the back of their 70’s-inspired EP “Seven Inches of Satanic Panic”, Tobias Forge’s Ghost brings their gorgeous blend of 1980’s pop-rock with Black Metal themes for this new song written for Halloween Kills. Like most of their last full-length “Prequelle”, Hunter’s Moon creates another dark love song, using the language of 80’s slasher movies to frame the singer’s obsessive mindset. Love has made a monster, and its name is Papa Emeritus IV."
+    }, 
+    "cradleoffilth": {
+        "title":"Crawling King Chaos - CRADLE OF FILTH",
+        "genre":"Black Metal",
+        "music":"kingchaos.mp3",
+        "albumart":"cradleoffilth.jpg",
+        "description": "One of the oldest and biggest names in British Black Metal, Cradle of Filth revels in Gothic romance and dark rituals, and Crawling King Chaos is no exception. The first single of upcoming album “Existence is Futile”, Crawling King Chaos shows that CoF hasn’t lost any of their monstrous cruelty over thirty years of terror. This dark summoning of an ancient god is blasted at incredible speeds while choirs and organs swell in the background. The continual chant “APOPHIS! REACH DARK OFFICE” grows with each repetition, until the chaos serpent’s coming feels close at hand. As one of my all-time favourite bands, I am extremely excited to see what else this new album will summon."
+    }, 
+    "aborted": {
+        "title":"Drag Me to Hell - ABORTED",
+        "genre":"Death Metal",
+        "music":"dragmetohell.mp3",
+        "albumart":"aborted.jpg",
+        "description": "Just in time for Halloween, Aborted’s eleventh studio album “Maniacult” was introduced with this overwhelming song based on the movie of the same name. This song combines all of the searing, slimy, blazing and repugnant grime of the best of Death Metal. This is a song you cannot crawl out of: the melody is thick and the rhythm shifts constantly, continually dragging the listener back down into the muck. It’s as rotten and disgusting as you want from Aborted, and it is endlessly listenable."
+    },
+    "powerwolf": {
+        "title":"Dancing with the Dead - POWERWOLF",
+        "genre":"powermetal",
+        "music":"dancingwiththedead.mp3",
+        "albumart":"powerwolf.jpg",
+        "description": "German saints-turned-werewolves Powerwolf’s latest album “Call of the Wild” weaves more tales of love, lust, and wolves all over the world. Its second single, Dancing with the Dead, is a powerful romp, bursting with all of Powerwolf’s trademarks: pipe organs, screaming guitars, lyrics about piety and sin, lead Attila Dorn’s booming operatics, and as many Latin phrases as you can find. All of these tricks combine to form a tune that immediately gets caught in your head, and it becomes hard not to dance along with the dead."
+    } 
+}

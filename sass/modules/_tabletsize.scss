@@ -10,7 +10,10 @@
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr;
     }
-
+    
+    .lightbox {
+        padding: 2em;
+    }
     .songinfo {
         display: grid;
         grid-template-columns: 1fr 1fr;
